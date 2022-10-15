@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'll be a Front-end Developer!
-22.10.15 ~ 1 day 1 commit start!
+I'll be a Front-end Developer!  
+22.10.15 ~ 1 day 1 commit start!  
 
 Tech Stack
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
